@@ -1,5 +1,5 @@
 /*
-  Probots_Liquid_Level_Transmitter_.h - Library for submersible liquid sensor.
+  Probots_Liquid_Level_Transmitter.h - Library for submersible liquid sensor.
   Created by Abhishek.S @ probots Techno Solutions, August 24, 2021.
 
 */
